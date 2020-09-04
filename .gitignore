@@ -1,0 +1,4 @@
+*.py[cod]
+*.so
+*.log
+./large_cat_blog/deeru_env
